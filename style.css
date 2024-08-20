@@ -1,0 +1,113 @@
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding-top: 45px;
+}
+.btn1{
+    background: #009FF5B5;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    border-radius: 15px;
+    width: 253px;
+    height: 50px;
+}
+.btn2{
+    background: #FFC611;
+    width: 604px;
+    height: 103px;
+    margin-top: 200px;
+    margin-left: 420px;
+    border-radius: 50px;
+    border: 11px solid gray;
+    text-shadow: 10px 10px 15px blue;
+    font-size: 30px;
+    font-weight: 900;
+}
+.card{
+    width: 361px;
+    height: 420px;
+    margin-left: 42px;
+    background: #3c3c3c;
+    text-shadow: 4px 4px 7px yellow;
+    text-align: center;
+    font-size: 25px;
+    margin-top: 125px;
+}
+
+.box{
+    background-image: url('./image\ 1\ \(2\).png');
+    background-repeat: no-repeat;
+}
+.case{
+    display: flex;
+    align-items: center;
+
+    justify-content: space-around;
+}
+
+
+
+.h{
+    font-style: 64px;
+    font-weight: 600;
+    
+    width: 346px;
+    height: 64px;
+    background: #5A5555;
+    text-align: center;
+    margin: auto;
+    line-height: 75px;
+    
+    
+}
+.fox{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 75px;
+    color: white;
+}
+.fo{
+    width: 663px;
+    height: 140px;
+}
+.but{
+    background: #FFC200;
+    border: none;
+    border-radius: 12px;
+
+width: 278px;
+height: 61px;
+}
+.but:hover{
+    background: #535353;
+    
+}
+.ping{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 125px;
+    color: white;
+}
+footer{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;   
+    background-color: yellow;
+    margin-top: 75px;
+    width: 1440px;
+    height: 158px;
+}
+.second{
+    width: 300px;
+    display: flex;
+    justify-content: space-around;
+}
+.pin{
+    background-image: url('./Rectangle\ 6.png');
+    background-repeat: no-repeat;
+}
